@@ -26,10 +26,10 @@ try:
         if user_input == 'n':
             gameon = "no"
             
-    print("It was nice playing dice with you. Have a great day. Bye bye.")
+    print("It was nice playing with you. Bye!")
 
 except:
-    print("Oop! Something went wront. Please try again.")
+    print("Oops! Something went wrong. Try Again!")
     
 
 
